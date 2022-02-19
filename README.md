@@ -20,6 +20,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-ip-address-tracker-website-pcr8ZrMdZ)
 - Live Site URL: [Add live site URL here](https://dreamy-meitner-f6d00a.netlify.app/)
 
